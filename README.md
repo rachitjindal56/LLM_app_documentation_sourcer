@@ -2,7 +2,7 @@
 
 This Streamlit application serves as a Developer Personal Assistant, designed to assist users in finding documentation, extracting data from the open internet, and iterating over databases. Users can input queries or thoughts related to programming, and the assistant will provide relevant information.
 
-This application is a LLM Personal Assistant Agent that involves use of OpenAI GPT-3.5-turbo capabilities and features like function calling and prompt engineering. The application has been designed to query the internet for information using Metaphor API and search for information realted to developer documentation, news, articles, general information, etc.
+This application is a LLM Personal Assistant Agent that involves use of OpenAI GPT-3.5-turbo capabilities and features like function calling and prompt engineering. The application has been designed to query the internet for information using Metaphor API and search for information realted to developer documentation, news, articles, general information, etc. This also give a touch to personal experience by talking in the traits of the person.
 
 ## Prerequisites
 
